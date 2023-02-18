@@ -1,1 +1,1 @@
-# Fincane Control
+# Finance Control
