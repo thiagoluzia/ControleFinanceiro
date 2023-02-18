@@ -1,0 +1,71 @@
+/*ENTIDADES*/
+
+[x] Receitas
+    [x] Entidade de entrada
+    [x] Entidade de saida
+[x] despesasa
+    [x] Entidade de entrada
+    [x] Entidade de saida  
+[x] Cartões
+    [x] Entidade de entrada
+    [x] Entidade de saida
+[x] Bancos
+    [x] Entidade de entrada
+    [x] Entidade de saida
+[] Lançamentos
+    [] Entidade de entrada
+    [] Entidade de saida
+[] Login
+    [] Entidade de entrada
+    [] Entidade de saida
+[x] Usuários 
+    [x] Entidade de entrada
+    [x] Entidade de saida
+[x] Perfis
+    [x] Entidade de entrada
+    [x] Entidade de saida
+
+/*ENDPOINTS*/
+[x] Receitas
+    [x] POST api/receitas
+    [x] GET api/receitas
+    [x] GET api/receitas/1
+    [x] PUT api/receitas/1
+    [x] DELETE api/receitas/1
+
+[x] DESPESASA
+    [x] POST api/despesasa
+    [x] GET api/despesasa
+    [x] GET api/despesasa/1
+    [x] PUT api/despesasa/1
+    [x] DELETE api/despesasa/1
+
+[x] CARTÕES
+    [x] POST api/cartoes
+    [x] GET api/cartoes
+    [x] GET api/cartoes/1
+    [x] PUT api/cartoes/1
+    [x] DELETE api/cartoes/1
+
+[x] BANCOS
+    [x] POST api/bancos
+    [x] GET api/bancos
+    [x] GET api/bancos/1
+    [x] PUT api/bancos/1
+    [x] DELETE api/bancos/1
+
+[x] USUÁRIOS
+    [x] POST api/usuarios
+    [x] GET api/usuarios
+    [x] GET api/usuarios/1
+    [x] PUT api/usuarios/1
+    [x] DELETE api/usuarios/1
+
+
+[x] PERFIS
+    [x] POST api/perfis
+    [x] GET api/perfis
+    [x] GET api/perfis/1
+    [x] PUT api/perfis/1
+    [x] DELETE api/perfis/1
+    
